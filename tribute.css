@@ -1,0 +1,57 @@
+#main {
+    margin: auto;
+    background: #eeee;
+    padding: 2em 1em 3em 1em;
+    border-radius: 5px;
+  }
+  
+  body {
+    background: white;
+    font-family: "Open Sans", calibri;
+    font-size: 15px;
+    text-align: center;
+    line-height: 200%;
+  }
+  
+  .tributeName {
+    font-size: 38px;
+  }
+  
+  #img-div {
+    margin: auto;
+    border: 1em solid white;
+    background: white;
+    border-radius: 5px;
+  }
+  
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  #img-caption {
+    padding: 1em;
+  }
+  
+  h2 {
+    text-align: center;
+    padding: 2em;
+  }
+  
+  ul {
+    max-width: 600px;
+    margin: auto;
+    text-align: justify;
+  }
+  
+  .quote {
+    max-width: 600px;
+    margin: auto;
+    font-style: italic;
+    text-align: justify;
+    padding: 1em;
+  }
